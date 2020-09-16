@@ -1,28 +1,35 @@
-![photo](https://i.yapx.ru/I7PPV.png)
 **Akram Gafurov**
+
 **Birthday:** 26.02.1987
+
 **Phone:** +375 29 161 41 81
+
 **E-mail:** AKRAMMinsk@yandex.by
 
-**Education:**
+## **Personal statement:**
 
----
+I want to get a new modern profession. And i am sure that rs-school help me.
 
-Polotsk State University. Assigned qualification:Civil engineer
+## **Computer Skills:**
 
-**Cources:**
+Technologies:
 
----
+- HTML5;
+- CSS3;
+- Bootstrap;
+- Git;
 
-<!--
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое)
+Software applications:
 
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
+-Photoshop;
+-Zeplin;
 
-Примеры кода
+## **Education:**
 
-Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.*
+The Polotsk State University. Assigned qualification:Civil engineer
 
-Образование (включая курсы, семинары, лекции, онлайн-обучение)
+## **Courses:**
 
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней) -->
+- 2019 - Englishpapa: English Course (Pre-intermediate);
+- 2019 - It-Academy: Computer Science Fundamentals Course;
+- 2019 - It-Academy: Website development with HTML, CSS & JAVASCRIPT;
