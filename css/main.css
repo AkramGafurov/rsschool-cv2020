@@ -1,0 +1,142 @@
+/*add settings*/
+
+body {
+  font-family: "Yeseva One";
+  font-size: 16px;
+  background-color: #fff;
+  color: #4c4c4c;
+  overflow-x: hidden;
+}
+
+.container {
+  max-width: 1320px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/*add fonts*/
+
+@font-face {
+  font-family: "Roboto-Black";
+  src: url("../fonts/Roboto-Black.woff2") format("woff2"),
+    url("../fonts/Roboto-Black.woff") format("woff"),
+    url("../fonts/Roboto-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto-Medium";
+  src: url("../fonts/Roboto-Medium.woff2") format("woff2"),
+    url("../fonts/Roboto-Medium.woff") format("woff"),
+    url("../fonts/Roboto-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto-Light";
+  src: url("../fonts/Roboto-Light.woff2") format("woff2"),
+    url("../fonts/Roboto-Light.woff") format("woff"),
+    url("../fonts/Roboto-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/**set header**/
+
+header {
+  display: flex;
+  justify-content: center;
+  background-image: url(../media/header-background.png);
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-size: cover;
+  background-position: center center;
+  font-family: "Roboto-Black";
+  font-size: 57px;
+  text-align: left;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.wrapper {
+  display: flex;
+}
+
+/**set aside**/
+
+aside {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  width: 100%;
+  padding-top: 20px;
+  background-color: #515151;
+}
+
+img {
+  width: 150px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.phone {
+  padding-left: 35px;
+  margin-bottom: 20px;
+  font-family: "Roboto-Light";
+}
+
+.email {
+  padding-left: 35px;
+  font-family: "Roboto-Light";
+}
+
+/**set main**/
+
+main {
+  padding-top: 40px;
+  padding-left: 60px;
+}
+
+main h2 {
+  margin-bottom: 30px;
+  font-family: "Roboto-Medium";
+  font-size: 23.5px;
+  letter-spacing: 4.7px;
+  color: #000000;
+  text-transform: capitalize;
+}
+
+main p {
+  margin-bottom: 15px;
+  font-family: "Roboto-Medium";
+  font-size: 21px;
+  letter-spacing: -0.21px;
+  color: #6a6a6a;
+  list-style-type: circle;
+}
+
+main ul {
+  margin-bottom: 45px;
+}
+
+main ul li {
+  font-family: "Roboto-Light";
+  font-size: 21px;
+  line-height: 1.36;
+  letter-spacing: -0.21px;
+  text-align: left;
+  color: #6a6a6a;
+  list-style-type: circle;
+}
